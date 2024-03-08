@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.fdb-block {
+    padding: 30px 0;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --primary-Color: #222222;
+    --secondary-Color: #f6425f;
+    --text-Color: #535967;
+    --alert-Color: #0099ff;
+    --success-Color: #8BE0DD;
+    --warning-Color: #ee8800;
+    --error-Color: #fe514c;
+    --grey-Color: #7A7A7A;
+    --black-Color: #222222;
+    --main-Background-Color: #F0F1FA;
+    --secondary-Background-Color: #5560C8;
+    --white-Color: #fff;
+    --secondary-Font: "Montserrat", sans-serif;
+    --button-padding: 13px 30px;
+    --button-border-radius: 5px;
+    --button-font-weight: 500;
+    --heading: 35px;
+    --heading-two: 25px;
+}
+
+.headere871d461930b46f7 .navbar-light .navbar-nav .nav-link {
+    color: var(--primary-Color);
+}
+
+.headere871d461930b46f7 .btnregister {
+    background-color: var(--secondary-Color);
+    border-radius: 30px;
+    padding: 8px 30px;
+    color: var(--main-Background-Color);
+}
+
+.abouta4c8deeb2f4571930 h2 {
+    font-size: 50px;
+}
+
+.abouta4c8deeb2f4571930 .about {
+    padding: 14px 20px;
+    border-radius: 30px;
+}
+
+.crunellaobWyteyCWzRLkMG .fdb-block h1 {
+    font-size: var(--heading);
+}
+
+.funtushftac0ssp3mu h1 {
+    font-size: var(--heading);
+}
+
+.funtushftac0ssp3mu h3 {
+    font-size: var(--heading-two);
+    margin-top: 10px;
+}
+
+.quickLinke6e365dd6b7c935a {
+    padding: 4rem;
+}
+
+.quickLinke6e365dd6b7c935a .btn:hover {
+    background-color: var(--error-Color);
+}
+
+.fosterftsjsdoaie6 .fdb-block {
+    padding: 4.5rem 0;
+}
+
+.aboutd390a380620aac0e h2 {
+    font-size: var(--heading);
+}
+
+.aboutd390a380620aac0e .video_card>.btn {
+    background: transparent
+}
+
+.counterc1486b52e923e265f .BG {
+    background-color: var(--white-Color);
+    margin-top: 50px;
+}
+
+.counterc1486b52e923e265f h2 {
+    color: #0099ff;
+    margin-top: 10px;
+}
+
+.bannerb9ce7550acbf1ce9f .button {
+    background-color: var(--secondary-Background-Color);
+    color: var(--main-Background-Color);
+    padding: 14px 20px;
+    border-radius: 30px;
+}
+.clientscca5p4g11jb4{
+    padding: 4rem
+}
+.clientscca5p4g11jb4 .btn-primary{
+    padding: 4rem;
+    background-color: var(--secondary-Background-Color);
+    color: var(--main-Background-Color);
+    padding: 14px 20px;
+    border-radius: 30px;
+}
+.fishftr6n1ahczo ul li a{
+    font-weight: var(--button-font-weight);
+}
