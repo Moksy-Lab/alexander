@@ -60,22 +60,32 @@
 }
 /*crunellaobWyteyCWzRLkMG*/
 .crunellaobWyteyCWzRLkMG .fdb-block h1 {
-    font-size: var(--heading-);
+    font-size: var(--heading-large);
+}
+.crunellaobWyteyCWzRLkMG .lead{
+    font-size: var(--paragraph);
 }
 /*funtushftac0ssp3mu*/
 .funtushftac0ssp3mu h1 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
-
+.funtushftac0ssp3mu .lead{
+    font-size: var(--paragraph);
+}
 .funtushftac0ssp3mu h3 {
-    font-size: var(--heading-two);
+    font-size: var(--heading-large);
     margin-top: 10px;
 }
 /*quickLinke6e365dd6b7c935a*/
 .quickLinke6e365dd6b7c935a {
     padding: 4rem;
 }
-
+.quickLinke6e365dd6b7c935a .heading-custom-class{
+    font-size: var(--heading-large);
+}
+.quickLinke6e365dd6b7c935a .para-custom-class{
+    font-size: var(--paragraph);
+}
 .quickLinke6e365dd6b7c935a .btn:hover {
     background-color: var(--error-Color);
 }
@@ -85,9 +95,11 @@
 }
 /*aboutd390a380620aac0e*/
 .aboutd390a380620aac0e h2 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
-
+.aboutd390a380620aac0e .para{
+    font-size: var(--paragraph);
+}
 .aboutd390a380620aac0e .video_card>.btn {
     background: transparent
 }
@@ -96,10 +108,13 @@
     background-color: var(--white-Color);
     margin-top: 50px;
 }
-
 .counterc1486b52e923e265f h2 {
-    color: #0099ff;
+    color: var(--alert-Color);
     margin-top: 10px;
+    font-size: var(--heading-large);
+}
+.counterc1486b52e923e265f  h4{
+    font-size: var(--paragraph);
 }
 /*bannerb9ce7550acbf1ce9f*/
 .bannerb9ce7550acbf1ce9f .button {
@@ -108,11 +123,21 @@
     padding: 14px 20px;
     border-radius: 30px;
 }
+.bannerb9ce7550acbf1ce9f p{
+    font-size: var(--paragraph);
+}
 /*clientscca5p4g11jb4*/
 .clientscca5p4g11jb4{
     padding: 4rem
 }
-.clientscca5p4g11jb4 .btn-primary{
+.clientscca5p4g11jb4 h1{
+    font-size: var(--heading-large);
+}
+.clientscca5p4g11jb4 .lead{
+    font-size: var(--paragraph);
+}
+.clientscca5p4g11jb4 .btn-primary,
+.clientscca5p4g11jb4 .btn-primary:not(:disabled):not(.disabled):active{
     padding: 4rem;
     background-color: var(--secondary-Background-Color);
     color: var(--main-Background-Color);
