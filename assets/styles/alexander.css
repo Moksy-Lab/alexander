@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
-
-.fdb-block {
-    padding: 30px 0;
-}
-
 * {
     font-family: "Poppins", sans-serif;
 }
@@ -26,8 +21,17 @@
     --button-padding: 13px 30px;
     --button-border-radius: 5px;
     --button-font-weight: 500;
-    --heading: 35px;
-    --heading-two: 25px;
+    --logo-border-radius: 15px;
+    --jumbotron-padding: 30px 16px;
+    --section-padding:30px 0px;
+    --heading:50px;
+	--heading-large: 35px;
+    --heading-medium: 25px;
+    --paragraph: 18px;
+
+}
+.fdb-block {
+    padding: 0rem 0;
 }
 /*headere871d461930b46f7*/
 .headere871d461930b46f7 .navbar-light .navbar-nav .nav-link {
@@ -42,16 +46,21 @@
 }
 /*abouta4c8deeb2f4571930*/
 .abouta4c8deeb2f4571930 h2 {
-    font-size: 50px;
+    font-size: var(--heading);
 }
-
+.abouta4c8deeb2f4571930 .para-custom-class{
+    font-size: var(--paragraph);
+}
 .abouta4c8deeb2f4571930 .about {
     padding: 14px 20px;
     border-radius: 30px;
 }
+.abouta4c8deeb2f4571930 .font-weight-bold {
+    font-weight: var(--button-font-weight) !important;
+}
 /*crunellaobWyteyCWzRLkMG*/
 .crunellaobWyteyCWzRLkMG .fdb-block h1 {
-    font-size: var(--heading);
+    font-size: var(--heading-);
 }
 /*funtushftac0ssp3mu*/
 .funtushftac0ssp3mu h1 {
