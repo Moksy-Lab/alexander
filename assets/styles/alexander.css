@@ -37,12 +37,15 @@
 .headere871d461930b46f7 .navbar-light .navbar-nav .nav-link {
     color: var(--primary-Color);
 }
-
 .headere871d461930b46f7 .btnregister {
     background-color: var(--secondary-Color);
     border-radius: 30px;
     padding: 8px 30px;
     color: var(--main-Background-Color);
+}
+.headere871d461930b46f7 .logo{
+    height: 60px;
+    width: 60px;
 }
 /*abouta4c8deeb2f4571930*/
 .abouta4c8deeb2f4571930 h2 {
