@@ -44,6 +44,10 @@
     padding: 8px 30px;
     color: var(--main-Background-Color);
 }
+.headere871d461930b46f7 .logo{
+    max-width: 60px;
+    max-height: 60px;
+}
 /*abouta4c8deeb2f4571930*/
 .abouta4c8deeb2f4571930 h2 {
     font-size: var(--heading);
